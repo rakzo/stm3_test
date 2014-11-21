@@ -4,6 +4,7 @@ public class main {
 
 	public main() {
 		// TODO Auto-generated constructor stub
+		System.out.println("7to cambio en rama master"); //software como servicio "github"
 	}
 
 	public static void main(String[] args) {
