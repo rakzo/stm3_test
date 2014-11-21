@@ -18,6 +18,7 @@ public class main {
 		System.out.println("6to cambio en rama master"); 
 		System.out.println("8to cambio en rama master");
 		System.out.println("1er cambio en rama galileo");
+		System.out.println("2do cambio en rama galileo");
 
 		
 		
